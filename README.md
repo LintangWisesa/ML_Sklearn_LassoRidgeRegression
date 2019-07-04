@@ -1,3 +1,10 @@
+![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+
+# Linear, Lasso vs Ridge Regression
+
+![plot](./6_allReg.png)
+
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -64,3 +71,15 @@ plt.plot(x, modelRidge.predict(x.reshape(-1, 1)), 'r-')
 plt.title('Ridge Regression (alpha=1e-15)')
 
 plt.show()
+```
+
+#
+
+#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
+
+[Facebook](https://www.facebook.com/lintangbagus) | 
+[Twitter](https://twitter.com/Lintang_Wisesa) |
+[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
+[Youtube](https://www.youtube.com/user/lintangbagus) | 
+:octocat: [GitHub](https://github.com/LintangWisesa) |
+[Hackster](https://www.hackster.io/lintangwisesa)
